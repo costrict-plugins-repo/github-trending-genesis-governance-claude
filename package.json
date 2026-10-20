@@ -1,0 +1,15 @@
+{
+  "name": "genesis-governance",
+  "version": "2.0.0",
+  "description": "Governance framework genesis protocol for Claude Code projects",
+  "license": "MIT",
+  "scripts": {
+    "test": "tsx scripts/test-genesis-governance.ts",
+    "test:integration": "tsx scripts/test-genesis-integration.ts"
+  },
+  "devDependencies": {
+    "@anthropic-ai/sdk": "^0.82.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

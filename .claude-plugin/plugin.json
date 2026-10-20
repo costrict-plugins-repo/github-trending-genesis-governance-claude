@@ -1,0 +1,12 @@
+{
+  "name": "genesis-governance",
+  "version": "3.0.0",
+  "description": "Governance framework genesis protocol — derives constitution, CLAUDE.md, governance.config.yaml, document registry, CI pipeline, and first audit from a 5-layer intake.",
+  "author": {
+    "name": "Andres Saavedra",
+    "email": "andres@flux.com.uy"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/siliconbrokers/genesis-governance-claude",
+  "repository": "https://github.com/siliconbrokers/genesis-governance-claude"
+}
